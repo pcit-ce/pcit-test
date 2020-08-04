@@ -1,0 +1,5 @@
+git:
+  disable: true
+  
+steps:
+  script: echo 1
