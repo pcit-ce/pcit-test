@@ -4,3 +4,4 @@ git:
 steps:
   script: echo 1
   script2: echo 2
+  script3: echo 3
