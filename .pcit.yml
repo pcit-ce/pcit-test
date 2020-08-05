@@ -5,7 +5,7 @@ steps:
   script: echo 1
   script2: echo 2
     on:
-      branches: [main]
+      branch: [main]
   script3:
     env:
       - KKK=v
