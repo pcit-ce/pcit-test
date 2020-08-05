@@ -6,6 +6,6 @@ steps:
   script2: echo 2
   script3:
     env:
-      - kKK=v
+      - KKK=v
     run: |
       echo $KKK
