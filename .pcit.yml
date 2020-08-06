@@ -3,10 +3,12 @@ git:
 
 steps:
   script: echo 1
-  script2: echo 2
+  script2
     on:
       branch:
       - main
+    run: |
+      echo 222  
   script3:
     env:
       - KKK=v
