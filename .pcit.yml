@@ -3,7 +3,7 @@ git:
 
 steps:
   script: echo 1
-  script2
+  script2:
     on:
       branch:
       - main
