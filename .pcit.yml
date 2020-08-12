@@ -14,3 +14,4 @@ steps:
       - KKK=v
     run: |
       echo $KKK
+      echo 6666
