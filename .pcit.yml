@@ -14,5 +14,4 @@ steps:
       - KKK=v
     run: |
       echo $KKK
-      echo 6666
-      echo 7777
+      echo 6666777
